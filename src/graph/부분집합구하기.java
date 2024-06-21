@@ -1,3 +1,5 @@
+package graph;
+
 public class 부분집합구하기 {
     static int n;
     static int[] chk;

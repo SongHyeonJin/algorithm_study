@@ -1,3 +1,5 @@
+package graph;
+
 class Node {
     int data;
     Node lt, rt;
